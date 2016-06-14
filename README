@@ -1,0 +1,14 @@
+libdependence
+- a head only template library, currently it just contains libsignal
+
+
+dependence
+- currently none
+
+
+TODO
+- add more libdependence modules
+
+
+Other
+- this library is under Lifest Approach License
